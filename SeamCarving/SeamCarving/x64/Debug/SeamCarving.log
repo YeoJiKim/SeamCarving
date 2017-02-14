@@ -1,0 +1,11 @@
+﻿  main.cpp
+d:\program files\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\program files\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\program files\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\program files\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+e:\学习\数媒\大三\18互动媒体技术\yan\实验二seam carving\seamcarving\seamcarving\main.cpp(223): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\学习\数媒\大三\18互动媒体技术\yan\实验二seam carving\seamcarving\seamcarving\main.cpp(238): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\学习\数媒\大三\18互动媒体技术\yan\实验二seam carving\seamcarving\seamcarving\main.cpp(265): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\学习\数媒\大三\18互动媒体技术\yan\实验二seam carving\seamcarving\seamcarving\main.cpp(371): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  SeamCarving.vcxproj -> E:\学习\数媒\大三\18互动媒体技术\Yan\实验二seam carving\SeamCarving\x64\Debug\SeamCarving.exe
+  SeamCarving.vcxproj -> E:\学习\数媒\大三\18互动媒体技术\Yan\实验二seam carving\SeamCarving\x64\Debug\SeamCarving.pdb (Full PDB)
